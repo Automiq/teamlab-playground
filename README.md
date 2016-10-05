@@ -8,7 +8,6 @@ TeamLab git playground
 9999
 8888
 7777
-6666
 2222
 
 3333
