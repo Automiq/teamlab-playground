@@ -5,6 +5,9 @@ TeamLab git playground
 
 1111
 0000
+9999
+8888
+7777
 2222
 
 3333
